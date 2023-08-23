@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan&display=swap');
+
+body{
+font-family:"League Spartan";
+  line-height:1.7;
+  background-color: #FFFCBB;
+  width:600px;
+  margin:auto;
+}
+
+form{
+background:rgb(200,10,10,0.3);
+padding: 3.0rem 3.0 rem;
+border-radius:0.5rem;
+width:600px;
+ margin:auto;
+}
+
+
+.input-heading{
+margin: 0 auto 1.5rem auto;
+  padding: 0.30rem;
+  
+}
+
+.form-input{
+ display:block;
+ width:85%;
+ height:1.8rem;
+  padding:0.3rem 0.75rem;
+  background-color:#fff;
+  border:0.9px solid #fff;
+  border-radius:0.3rem;
+}
+
+
+textarea{
+    border: 1px solid #0a0a23;
+    color: #ffffff;
+    margin: 10px 0 0 0;
+    width: 99%;
+    min-height: 2em;
+
+}
+
+input[type="submit"] {
+    display: block;
+    width: 20%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: #FFFCBB;
+    border-color: white;
+    min-width: 300px;
+    font-family: Stick;
+  }
